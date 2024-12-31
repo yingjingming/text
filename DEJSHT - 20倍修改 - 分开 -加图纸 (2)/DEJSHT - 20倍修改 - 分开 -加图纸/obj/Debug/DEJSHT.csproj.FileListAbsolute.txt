@@ -1,0 +1,191 @@
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\DEJSHT.exe.config
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\DEJSHT.exe
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\DEJSHT.pdb
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Spire.Doc.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Spire.Doc.xml
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.Form1.resources
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.exe
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.pdb
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\accoremgd.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcCui.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\acdbmgd.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\acmgd.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcMNUParser.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcDx.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AdWindows.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcMr.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcWindows.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\AcTcMgd.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\ManagedMC3.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\Administrator\source\repos\DEJSHT\bin\Debug\acdbmgdbrep.dll
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\Interop.AutoCAD.dll
+C:\Users\Administrator\source\repos\DEJSHT\obj\Debug\Interop.AXDBLib.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\DEJSHT.exe.config
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\DEJSHT.exe
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\DEJSHT.pdb
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcCoreMgd.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcCui.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcDbMgd.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\acdbmgdbrep.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcDx.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcMgd.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcMr.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcTcMgd.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcWindows.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AdWindows.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Spire.Doc.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\AcMNUParser.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\ManagedMC3.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Spire.Doc.xml
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\Interop.AutoCAD.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\Interop.AXDBLib.dll
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.Form1.resources
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.exe
+C:\Users\Administrator\source\repos\DEJSHT - 20倍\obj\Debug\DEJSHT.pdb
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.exe.config
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.exe
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.pdb
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcCoreMgd.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcCui.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcDbMgd.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\acdbmgdbrep.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcDx.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcMgd.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcMr.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcTcMgd.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcWindows.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AdWindows.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Doc.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\AcMNUParser.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\ManagedMC3.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Doc.xml
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\Interop.AutoCAD.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\Interop.AXDBLib.dll
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.Form1.resources
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.exe
+C:\Users\Administrator\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.pdb
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.exe.config
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.exe
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\DEJSHT.pdb
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Doc.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Pdf.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\AcMNUParser.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\ManagedMC3.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Microsoft.mshtml.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Doc.xml
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\bin\Debug\Spire.Pdf.xml
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\Interop.AutoCAD.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\Interop.AXDBLib.dll
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.Form1.resources
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.Properties.Resources.resources
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.csproj.CopyComplete
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.exe
+C:\Users\蒋蒋治治\Desktop\DEJSHT - 20倍\obj\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\DEJSHT.exe.config
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Spire.Doc.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Spire.Pdf.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\AcMNUParser.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\ManagedMC3.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Microsoft.mshtml.dll
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Spire.Doc.xml
+D:\假桌面\DEJSHT - 20倍修改\bin\Debug\Spire.Pdf.xml
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\Interop.AutoCAD.dll
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\Interop.AXDBLib.dll
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.Form1.resources
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.Properties.Resources.resources
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.csproj.CopyComplete
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改\obj\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\DEJSHT.exe.config
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\Spire.Doc.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\Spire.Pdf.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\Microsoft.mshtml.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\Spire.Doc.xml
+D:\假桌面\DEJSHT - 20倍修改 - 分开\bin\Debug\Spire.Pdf.xml
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\Interop.AutoCAD.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\Interop.AXDBLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.Form1.resources
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.Properties.Resources.resources
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.csproj.CopyComplete
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改 - 分开\obj\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.csproj.AssemblyReference.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\Interop.ACFOCUSCTRLLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\Interop.ATYPICALBOARDATLLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\Interop.AutoCAD.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\Interop.AXDBLib.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.csproj.ResolveComReference.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.Form1.resources
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.Properties.Resources.resources
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.csproj.GenerateResource.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.csproj.CoreCompileInputs.cache
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\DEJSHT.exe.config
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\DEJSHT.exe
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\DEJSHT.pdb
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\Spire.Doc.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\Spire.Pdf.dll
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\Spire.Doc.xml
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\Spire.Pdf.xml
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\obj\Debug\DEJSHT.csproj.CopyComplete
+D:\假桌面\DEJSHT - 20倍修改 - 分开 -加图纸\bin\Debug\Microsoft.mshtml.dll
